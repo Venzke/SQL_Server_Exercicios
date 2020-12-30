@@ -1,0 +1,2 @@
+SELECT NAME, COMMISSION
+FROM salesman;
