@@ -1,8 +1,8 @@
 # SQL_Server_Exercicios
 
 <p>
-1. Write a SQL statement to display all the information of all salesmen.
-2. Write a SQL statement to display a string "This is SQL Exercise, Practice and Solution". 
+1. Write a SQL statement to display all the information of all salesmen. \n
+2. Write a SQL statement to display a string "This is SQL Exercise, Practice and Solution". \n 
 3. Write a query to display three numbers in three columns.
 4. Write a query to display the sum of two numbers 10 and 15 from RDMS sever.
 5. Write a query to display the result of an arithmetic expression.
