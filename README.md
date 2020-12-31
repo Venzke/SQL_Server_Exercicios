@@ -1,7 +1,7 @@
 # SQL_Server_Exercicios
 
 <p>
-1. Write a SQL statement to display all the information of all salesmen. \n
+1. Write a SQL statement to display all the information of all salesmen. </br>
 2. Write a SQL statement to display a string "This is SQL Exercise, Practice and Solution". \n 
 3. Write a query to display three numbers in three columns.
 4. Write a query to display the sum of two numbers 10 and 15 from RDMS sever.
